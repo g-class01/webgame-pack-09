@@ -1,0 +1,1 @@
+window.CrazyGames={SDK:{init:function(){return Promise.resolve();}}};
